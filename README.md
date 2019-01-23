@@ -1,5 +1,5 @@
 
-This is a forked of the original medgan repository adapted to python3.6. We essentially recode the print and the dics calls 
+This is a forked of the original [medgan repository](https://github.com/mp2893/medgan) from Choi et al. adapted to python3.6. We essentially recode the print and the dics calls 
 
 medGAN py36
 =========================================
