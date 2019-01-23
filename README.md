@@ -1,4 +1,7 @@
-medGAN
+
+This is a forked of the original medgan repository adapted to python3.6. We essentially recode the print and the dics calls 
+
+medGAN py36
 =========================================
 medGAN is a generative adversarial network for generating multi-label discrete patient records. It can generate both binary and count variables (i.e. medical codes such as diagnosis codes, medication codes or procedure codes).
 
